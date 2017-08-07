@@ -1,0 +1,16 @@
+{
+  "name": "robot",
+  "version": "1.0.0",
+  "description": "This project explains the direction of robot in a 10x10 grid ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rupesh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "underscore": "^1.8.3"
+  }
+}
