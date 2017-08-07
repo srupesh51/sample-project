@@ -21,9 +21,9 @@ const getRobotDirections = (robotDetails, done) => {
 			if(command == 'F') {
 				x--;
 			} else if(command == 'L') {
-				y++;
-			} else {
 				y--;
+			} else {
+				y++;
 			}
 			
 		} else if(initialDirection == 'R') {
